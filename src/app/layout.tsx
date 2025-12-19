@@ -33,6 +33,9 @@ export const metadata: Metadata = {
     title: "KHOSYIYAH - Solusi Bisnis Profesional",
     description: "Mitra bisnis terpercaya untuk solusi berkualitas tinggi",
   },
+  other: {
+    "facebook-domain-verification": "e8kwujaswf3qlkncrkimf1p22soj0z",
+  },
 };
 
 export default function RootLayout({
